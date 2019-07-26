@@ -1,0 +1,25 @@
+{
+  "name": "sen-web",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento Academico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyferTec/sen-web.git"
+  },
+  "keywords": [
+    "Gerenciamento",
+    "academico",
+    "alunos",
+    "escola"
+  ],
+  "author": "Ryan Castro Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyferTec/sen-web/issues"
+  },
+  "homepage": "https://github.com/RyferTec/sen-web#readme"
+}
